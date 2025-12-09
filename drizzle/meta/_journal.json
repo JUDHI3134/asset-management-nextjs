@@ -8,6 +8,13 @@
       "when": 1764923584320,
       "tag": "0000_aberrant_star_brand",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1765253247890,
+      "tag": "0001_chief_stick",
+      "breakpoints": true
     }
   ]
 }
